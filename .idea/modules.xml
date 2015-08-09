@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Framework/Framework.iml" filepath="$PROJECT_DIR$/Framework/Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/WBLTestAutomation.iml" filepath="$PROJECT_DIR$/WBLTestAutomation.iml" />
     </modules>
   </component>
