@@ -8,9 +8,9 @@ import java.util.*;
  */
 public interface ElementsContainer {
 
-    WebElement FindElement(By by);
+  /*  WebElement FindElement(By by);
 
-    Collection<WebElement> FindElements(By by);
+    Collection<WebElement> FindElements(By by);*/
 
     String getDescription();
 }
